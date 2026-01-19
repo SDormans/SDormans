@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Powershell scripts](https://github.com/SDormans/Powershell)
+- <b>Automation Scripts(Powershell)</b>
+  - [Powershell scripts](https://github.com/SDormans/PowershellScripts)
   
 - <b>C# (.NET Desktop Applications)</b>
   - [Picture console app](https://github.com/SDormans/Picturesconsole)
+ 
+- <b>Data Analytics (miscellaneous)</b>
+  - [SQL Data Warehouse](https://github.com/SDormans/sql-data-warehouse)
   
 - <b>In the future</b>
   - more to follow...
