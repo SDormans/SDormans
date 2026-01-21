@@ -6,7 +6,7 @@
   - [Powershell Scripts](https://github.com/SDormans/PowershellScripts)
   
 - <b>C# (.NET Desktop Applications)</b>
-  - [Picture Rename Console App](https://github.com/SDormans/Picturesconsole)
+  - [Picture Rename Console App](https://github.com/SDormans/PictureRenameApp)
  
 - <b>Data Analytics (miscellaneous)</b>
   - [SQL Data Warehouse](https://github.com/SDormans/sql-data-warehouse)
