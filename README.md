@@ -1,4 +1,5 @@
-<h1>Hi, I'm Stijn! <br/><a href="https://github.com/SDormans">Programmer</a>
+<h1>Hi, I'm Stijn!</h1> <br/>
+I am a <a href="https://github.com/SDormans">programmer</a> who genuinely enjoys automating and optimizing processes. I’m driven by the challenge of making systems more efficient, reliable, and scalable. By analyzing data and uncovering meaningful insights, I strive to design smart, practical solutions that deliver real impact. I’m always motivated to improve workflows and turn complex problems into streamlined, effective results.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
