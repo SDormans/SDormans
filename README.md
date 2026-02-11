@@ -13,7 +13,7 @@ I am a <a href="https://github.com/SDormans">programmer</a> who genuinely enjoys
   - [SQL Data Warehouse](https://github.com/SDormans/sql-data-warehouse)
   
 - <b>In the future</b>
-  - more to follow...
+  - Maybe you got any ideas. Hit me up with your thoughts...
   
 <h2> 🤳 Connect with me:</h2>
 
