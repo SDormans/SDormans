@@ -14,6 +14,7 @@ I'm a programmer with a strong passion for automation and process optimization. 
 
 ### Data Analytics
 - **[SQL Data Warehouse](https://github.com/SDormans/sql-data-warehouse)** – A project focused on building a structured data warehouse for analysis, demonstrating ETL processes and data modeling.
+- **[SQL Data Lake](https://github.com/SDormans/sql-azure-data-lake)** – A project focused on building a data lake for analysis, demonstrating ETL processes and data modeling.
 
 ### Future Endeavors
 - Have an idea or collaboration in mind? I'm always open to discussing new opportunities and challenges. Feel free to reach out!
