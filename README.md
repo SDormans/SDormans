@@ -12,6 +12,10 @@ I'm a programmer with a strong passion for automation and process optimization. 
 ### C# (.NET Desktop Applications)
 - **[Picture Rename Console App](https://github.com/SDormans/PictureRenameApp)** – A utility for batch renaming image files based on customizable rules, simplifying media organization.
 
+### C# (ASP.NET Web Applications)
+- **[Invoice processing platform](https://github.com/SDormans/DocumentProcessing)** – Invoice processing platform: ASP.NET Core + React + LLM extraction with a measured evaluation harness. As dress rehersehal for Accel Hackathon Paris.
+
+
 ### Data Analytics
 - **[SQL Data Warehouse](https://github.com/SDormans/sql-data-warehouse)** – A project focused on building a structured data warehouse for analysis, demonstrating ETL processes and data modeling.
 - **[SQL Data Lake](https://github.com/SDormans/sql-azure-data-lake)** – A project focused on building a data lake for analysis, demonstrating ETL processes and data modeling.
