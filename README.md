@@ -20,6 +20,11 @@ I'm a programmer with a strong passion for automation and process optimization. 
 - **[SQL Data Warehouse](https://github.com/SDormans/sql-data-warehouse)** – A project focused on building a structured data warehouse for analysis, demonstrating ETL processes and data modeling.
 - **[SQL Data Lake](https://github.com/SDormans/sql-azure-data-lake)** – A project focused on building a data lake for analysis, demonstrating ETL processes and data modeling.
 
+### Side Projects
+-**[Local SAM](https://github.com/SDormans/SAM_Local)** – A Harness that creates coding agents on local models.
+-**[Invoice Processing Platform](https://github.com/SDormans/DocumentProcessing)** – A platform that extract information of invoices (A dress rehearsal for a hackathon).
+-**[Bidding Agents](https://github.com/SDormans/oct-22-hack))** – A hackathon project where we created a platform for agents to bid on tenders.
+
 ### Future Endeavors
 - Have an idea or collaboration in mind? I'm always open to discussing new opportunities and challenges. Feel free to reach out!
 
